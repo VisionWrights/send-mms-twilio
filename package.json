@@ -1,0 +1,17 @@
+{
+  "name": "sendsms",
+  "version": "1.0.0",
+  "description": "Node app to send SMS using twilio sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salman",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "googleapis": "^118.0.0",
+    "mocha": "^10.2.0",
+    "twilio": "^4.11.0"
+  }
+}
